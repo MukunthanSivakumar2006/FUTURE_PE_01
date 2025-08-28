@@ -56,3 +56,7 @@ I have shared my learning experience and results in a LinkedIn post.
 - Learned to design prompt chains for creative content generation.
 - Improved understanding of AI-assisted video production workflow.
 - Practiced integrating multiple AI tools for a single creative project.
+
+
+**[LinkedIn](https://www.linkedin.com/in/mukunthan-s-08a090290/)**
+
