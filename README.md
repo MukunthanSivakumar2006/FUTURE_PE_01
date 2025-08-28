@@ -20,10 +20,15 @@ The goal of this task was to use prompt chains to generate:
 ■ Repository Structure
 FUTURE_PE_01/
 ■■■ README.md # Project summary
+
 ■■■ prompt_chain.md # Full documentation of prompt chains
+
 ■■■ script.md # Final YouTube video script
+
 ■■■ thumbnail_idea.txt # Thumbnail text concepts
+
 ■■■ thumbnail.png # AI-generated thumbnail
+
 ■■■ video_link.txt # Link to final video (if file is large)
 
 
