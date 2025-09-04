@@ -141,6 +141,3 @@ Thanks for watching, and I’ll see you in the next video. Until then, study sma
 
 ---
 
-✨ This script is around **1100 words** and matches your internship’s requirement (800–1500 words).
-
----
